@@ -1,0 +1,25 @@
+# Core dependencies
+fastapi>=0.104.0
+uvicorn>=0.23.0
+python-dotenv>=1.0.0
+
+# Web scraping & API clients
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+
+# Notion API
+notion-client>=2.0.0
+
+# FireCrawl API integration
+firecrawl-sdk>=1.0.0
+
+# Google Gemini AI
+google-generativeai>=0.3.0
+
+# Async support
+asyncio>=3.4.3
+
+# Utilities
+pydantic>=2.4.0
+typing-extensions>=4.8.0
